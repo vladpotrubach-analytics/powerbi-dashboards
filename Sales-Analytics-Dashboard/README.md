@@ -17,9 +17,9 @@ The goal of the project was to transform raw sales data into an interactive busi
 4. Created relationships between fact and dimension tables
 5. Created DAX measures and KPIs
 6. Designed interactive dashboards
-7. Analyzed revenue, sales, and profit performance
+7. Analyzed revenue, sales, and profit performance.
 
-4. Dashboard Pages
+4.Dashboard Pages
 • Sales Overview
 • Profit Overview
 • Revenue Analysis
