@@ -19,12 +19,12 @@ The goal of the project was to transform raw sales data into an interactive busi
 6. Designed interactive dashboards
 7. Analyzed revenue, sales, and profit performance.
 
-4.Dashboard Pages
+4.Dashboard Pages.
 • Sales Overview
 • Profit Overview
 • Revenue Analysis
 
-5. Key Insights
+5. Key Insights.
 • Gardening and Furniture generated the highest revenue.
 • A small number of product categories contributed to most revenue (Pareto analysis).
 • Profit margin peaked in September and stayed close to 8% during the analyzed period.
